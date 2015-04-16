@@ -1,6 +1,6 @@
 ---
 title       : Name That Kid!
-subtitle    : 
+subtitle    : use left and right arrows to move between slides
 author      : 
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
