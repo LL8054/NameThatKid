@@ -1,8 +1,8 @@
 ---
 title       : Name That Kid!
-subtitle    : use left and right arrows to move between slides
-author      : there's no background music track
-job         : 
+subtitle    : 
+author      : there's no background music track.
+job         : use the left and right arrows to move between slides. 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
